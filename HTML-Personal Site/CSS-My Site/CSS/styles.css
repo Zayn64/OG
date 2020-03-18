@@ -1,0 +1,48 @@
+body{
+text-align: center;
+  margin: 50px;
+  background-color: #bbded6;
+  font-family: Verdana, cursive;
+  font-size: 20px;
+
+}
+
+
+h1
+{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive
+
+}
+
+ h2{
+   font-family: 'Montserrat', sans-serif;
+ }
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+ .c1{
+   position: absolute;
+   top: 5px;
+
+ }
+.c2{
+  position: absolute;
+  left: 100px;
+  position:absolute;
+  top: 400px;
+}
+.img{
+  text-align: center;
+  height: 300px;
+  width: 300px;
+}
+
+.game{
+  height: 300px;
+  width: 300px;
+}
+.fball{
+  height: 300px;
+  width: 300px;
+}
